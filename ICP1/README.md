@@ -1,1 +1,1 @@
-# This is a repository created Web and Mobile programming.
+# This is a repository created for Web and Mobile programming.
