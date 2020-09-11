@@ -1,0 +1,16 @@
+.mainBody{
+    background: url(images/B.jpg);
+    background-size : cover
+}
+
+h2{
+    color: black;
+    font-family: candara;
+    font-size: 30px;
+}
+
+.img{
+    top: 30%;
+    left: 30%;
+    position: center;
+}

@@ -1,0 +1,30 @@
+/* Here import  font from google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+
+body, html {
+
+    height: 100%;
+}
+
+h2{
+    color:#BCBBBB ;
+}
+
+h1, h5, h3{
+    color:#747704;
+    font-family: 'Play', sans-serif;
+
+}
+
+hr {
+    border:  solid #BCBBBB;
+    border-radius: 1px;
+}
+#image {
+    height: 350px;
+    width: 100%;
+}
+
+.headings{
+    margin-top: 50px;
+}
