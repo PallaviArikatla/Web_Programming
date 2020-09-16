@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hover</title>
+    <!-- Adding  jquery to html file-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <!-- Adding  CSS file to html file-->
+    <link href="style1.css" rel="stylesheet">
+
+</head>
+<body>
+
+<div id="image">
+    <p style="color:purple">Hover over images below!</p>
+</div>
+<!-- Below code is for displaying images on the page-->
+<img alt="Mix it all!" class="preview"
+     onmouseout="unDo()"
+     onmouseover="upDate(this)"
+     src="https://cdn.sallysbakingaddiction.com/wp-content/uploads/2017/06/moist-chocolate-cupcakes-7.jpg">
+
+<img alt="Bake!Bake!Bake!" class="preview"
+     onmouseout="unDo()"
+     onmouseover="upDate(this)"
+     src="https://cdn.sallysbakingaddiction.com/wp-content/uploads/2017/06/moist-chocolate-cupcakes-6.jpg">
+
+<img alt="Yummy!Yummy!" class="preview"
+     onmouseout="unDo()"
+     onmouseover="upDate(this)"
+     src="https://cdn.sallysbakingaddiction.com/wp-content/uploads/2017/06/moist-chocolate-cupcakes-5.jpg">
+<!-- Adding  js script to html file-->
+<script src="script1.js"></script>
+</body>
+</html>

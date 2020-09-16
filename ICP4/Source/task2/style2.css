@@ -1,0 +1,188 @@
+body {
+    background-image: url("https://cdn.hipwallpaper.com/i/43/95/SBvc8D.jpeg");
+    background-size : 100%;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 62.5%;
+    color: #616161;
+    padding: 35px 0;
+}
+
+
+#logo {
+    position: relative;
+    top: -2px;
+}
+
+input[type='text'] {
+    height: 2.2em;
+    font-size: 2em;
+    width: 50%;
+    padding: 5px;
+}
+
+.info, .ava {
+    vertical-align: top;
+    display: inline-block;
+}
+
+.info {
+    text-align: center;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.search {
+    text-align: center;
+    margin: 50px auto;
+}
+
+h2 {
+    padding: 5px;
+}
+
+.profile {
+    height: 130px;
+    width: 150px;
+    padding: 90px 30px 0;
+    display: block;
+    background-color: purple;
+    text-decoration: none;
+    color: white;
+}
+
+.profile:hover {
+    background-color: #b300b3;
+}
+
+.smallname {
+    font-size: 0.75em;
+    color: #a9a9a9;
+    font-style: italic;
+}
+
+.idname {
+    font-family: 'Helvetica Neue';
+    font-size: 1.5em;
+    position: relative;
+    left: 2%;
+    color:#616161;
+    font-style: bold;
+}
+
+/* clearfix */
+.clearfix:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; }
+.clearfix { display: inline-block; }
+
+html[xmlns] .clearfix { display: block; }
+* html .clearfix { height: 1%; }
+
+.avi {
+    float: left;
+    margin-right: 7px;
+    margin-bottom: 7px;
+}
+.avi img {
+    border: 1px solid #ccc;
+    padding: 3px;
+}
+
+.repolist {
+    display: block;
+    clear: both;
+    width: 100%;
+}
+.repolist ul {
+    font-size: 1.2em;
+}
+.repolist ul li {
+    display: block;
+}
+.repolist ul li a {
+    font-weight: bold;
+    padding: 6px 9px;
+    display: block;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    border: 1px solid #356492;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    color: #fff;
+    background-color: #3673af;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#5597d8), to(#3673af));
+    background-image: -webkit-linear-gradient(top, #5597d8, #3673af);
+    background-image: -moz-linear-gradient(top, #5597d8, #3673af);
+    background-image: -ms-linear-gradient(top, #5597d8, #3673af);
+    background-image: -o-linear-gradient(top, #5597d8, #3673af);
+    background-image: linear-gradient(top, #5597d8, #3673af);
+}
+.repolist ul li a:hover {
+    background-color: #396895;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#4b87c2), to(#396895));
+    background-image: -webkit-linear-gradient(top, #4b87c2, #396895);
+    background-image: -moz-linear-gradient(top, #4b87c2, #396895);
+    background-image: -ms-linear-gradient(top, #4b87c2, #396895);
+    background-image: -o-linear-gradient(top, #4b87c2, #396895);
+    background-image: linear-gradient(top, #4b87c2, #396895);
+}
+.repolist ul li a:active {
+    -webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,0.25);
+    -moz-box-shadow: inset 0 3px 5px rgba(0,0,0,0.25);
+    box-shadow: inset 0 3px 5px rgba(0,0,0,0.25);
+}
+
+.repolist ul li a span {
+    font-family: "Courier New", Courier, "Lucida Typewriter", monospace;
+    font-size: 0.9em;
+}
+h1 {
+    font-family: 'candara';
+    color: #646464;
+    font-size: 3.5em;
+    line-height: 1.6em;
+    margin-bottom: 10px;
+    align-content: center
+}
+p {
+    font-family: 'candara';
+    font-size: 1.4em;
+    line-height: 1.55em;
+    margin-bottom: 12px;
+}
+/* input field */
+#username {
+    display: block;
+    padding: 5px 8px;
+    font-size: 1.4em;
+    color: #666;
+    width: 550px;
+    margin-bottom: 15px;
+}
+#box1 {
+    display: block;
+    width: 55%;
+    margin: 0 auto;
+    background: #fff;
+    padding: 15px 25px;
+    -webkit-box-shadow: 1px 2px 3px -1px rgba(0,0,0,0.4);
+    -moz-box-shadow: 1px 2px 3px -1px rgba(0,0,0,0.4);
+    box-shadow: 1px 2px 3px -1px rgba(0,0,0,0.4);
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+ul
+{
+    /* overflow-x:hidden; */
+    white-space:nowrap;
+    height: 10%;
+    width: 230%;
+}
+
+li
+{
+    display:inline;
+}
