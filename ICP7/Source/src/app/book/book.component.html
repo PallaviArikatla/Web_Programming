@@ -1,0 +1,32 @@
+
+<my-nav></my-nav>
+
+<div class="example-container mat-elevation-z8">
+  <table mat-table #table [dataSource]="dataSource">
+
+    <ng-container matColumnDef="isbn">
+      <th mat-header-cell *matHeaderCellDef bgcolor="#ffd700" style="color: black"> ISBN</th>
+      <td mat-cell *matCellDef="let element" class="isbn-col"> {{element.isbn}} </td>
+    </ng-container>
+
+
+    <ng-container matColumnDef="title">
+      <th mat-header-cell *matHeaderCellDef bgcolor="#ffd700" style="color: black"> Title</th>
+      <td mat-cell *matCellDef="let element"> {{element.title}} </td>
+    </ng-container>
+
+
+    <ng-container matColumnDef="author">
+      <th mat-header-cell *matHeaderCellDef bgcolor="#ffd700" style="color: black"> Author</th>
+      <td mat-cell *matCellDef="let element"> {{element.author}} </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;" [routerLink]="['/book-details/', row._id]"></tr>
+  </table>
+  <div class="button-row">
+    <a mat-raised-button color="danger" [routerLink]="['/book-create']">
+      Add Book
+    </a>
+  </div>
+</div>

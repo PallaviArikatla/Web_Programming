@@ -1,0 +1,29 @@
+<div class="bg-text1">
+<mat-card>
+  <div class="button-row">
+    <a mat-raised-button [routerLink]="['/books']">Home</a>
+  </div>
+  <mat-card-header>
+    <mat-card-title><h2>{{book.title}}</h2></mat-card-title>
+    <mat-card-subtitle>{{book.description}}</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-content>
+    <dl>
+      <dt>ISBN:</dt>
+      <dd>{{book.isbn}}</dd>
+      <dt>Author:</dt>
+      <dd>{{book.author}}</dd>
+      <dt>Publisher:</dt>
+      <dd>{{book.publisher}}</dd>
+      <dt>Publish Year:</dt>
+      <dd>{{book.published_year}}</dd>
+      <dt>Update Date:</dt>
+      <dd>{{book.updated_date | date}}</dd>
+    </dl>
+  </mat-card-content>
+  <mat-card-actions>
+    <a mat-raised-button  [routerLink]="['/book-edit', book._id]">Edit Record</a>
+    <a mat-raised-button color="warn" (click)="deleteBook(book._id)">Delete Record</a>
+  </mat-card-actions>
+</mat-card>
+</div>
