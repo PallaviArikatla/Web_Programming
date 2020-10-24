@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
         if(!username.isEmpty() && !password.isEmpty())// if username and password fields are not empty
         {
-            if(username.equals("akhil")&&password.equals("akhil"))//if username and password matches the given credentials
+            if(username.equals("Pallavi")&&password.equals("Pallavi1743"))//if username and password matches the given credentials
             {
                 Intent redirect = new Intent(MainActivity.this, HomeActivity.class);
                 startActivity(redirect);// redirect to home page
