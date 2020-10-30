@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#03A9F4"
+    tools:context="com.akhil.pizzaorder.Order">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20sp"
+        android:layout_marginTop="20sp"
+        android:background="#DAFFFFFF"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/sum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="20sp"
+            android:text="sdsdsd"
+            android:textColor="#000"
+            android:textSize="20sp"></TextView>
+
+        <Button
+            android:id="@+id/or_sum"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/sum"
+            android:layout_marginStart="50sp"
+            android:layout_marginLeft="50sp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="50sp"
+            android:layout_marginRight="50sp"
+            android:layout_marginBottom="50sp"
+            android:background="#F44336"
+            android:padding="20sp"
+            android:text="Place Order"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:textStyle="bold"></Button>
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
