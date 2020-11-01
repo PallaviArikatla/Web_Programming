@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d60800b-c7fe-44ff-8ec6-1bdb0c064d40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ICP8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP 9/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP9/Source/PizzaOrder/app/src/androidTest/java/com/pallavi/pizzaorder/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP9/Source/PizzaOrder/app/src/androidTest/java/com/pallavi/pizzaorder/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP9/Source/PizzaOrder/app/src/test/java/com/pallavi/pizzaorder/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP9/Source/PizzaOrder/app/src/test/java/com/pallavi/pizzaorder/ExampleUnitTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jfJY6U4gyETIVKg0zDGsQxYF1Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$/Source/gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sakWebMobileProgramming" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager" selected="Gradle.C:/Users/Windows 10/OneDrive/Documents/GitHub/Web_Programming/ICP8/Source/gradle">
+    <configuration name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android App" nameIsGenerated="true">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/Windows 10/OneDrive/Documents/GitHub/Web_Programming/ICP8/Source/gradle" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Source/gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Android App.Unnamed" />
+      <item itemvalue="Gradle.C:/Users/Windows 10/OneDrive/Documents/GitHub/Web_Programming/ICP8/Source/gradle" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d60800b-c7fe-44ff-8ec6-1bdb0c064d40" name="Default Changelist" comment="" />
+      <created>1604189256566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604189256566</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604190666559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1604190666559" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1604201789463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604201789463" />
+    <state width="1308" height="163" key="GridCell.Tab.0.bottom" timestamp="1604201791755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604201791755" />
+    <state width="1308" height="163" key="GridCell.Tab.0.center" timestamp="1604201791755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604201791755" />
+    <state width="1308" height="163" key="GridCell.Tab.0.left" timestamp="1604201791754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604201791754" />
+    <state width="1308" height="163" key="GridCell.Tab.0.right" timestamp="1604201791755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604201791755" />
+  </component>
+</project>
