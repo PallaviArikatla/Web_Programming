@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="993f1c4f-7ff1-4d0a-800b-955f001971e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/4.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/4.1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/4.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/4.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/4.1/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/4.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/4.1/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/4.1/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/4.1/javaCompile/taskJars.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/4.1/taskHistory/fileSnapshots.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/4.1/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/4.1/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP 11/Source/AndroidHardware/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Firebase/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLite/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Firebase/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Firebase/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Firebase/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Firebase/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Firebase/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Firebase/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Firebase/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Firebase/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLite/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SQLite/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLite/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SQLite/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SQLite" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
@@ -81,26 +75,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="100" y="100" width="1166" height="528" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1605844273985" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1605843856940">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1606183438476">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605843856940" />
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1605843997032">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606183438476" />
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1605849884456">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605843997032" />
-    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1605843997031">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605849884456" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1605849884456">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605843997031" />
-    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1605843997031">
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605849884456" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1605849884456">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605843997031" />
-    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1605843997032">
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605849884456" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1605849884456">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605843997032" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605849884456" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1605843944324">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
