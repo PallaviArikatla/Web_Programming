@@ -1,4 +1,4 @@
-package com.vijaya.sqlite;
+package com.pallavi.sqlite;
 
 import android.content.Intent;
 import android.databinding.DataBindingUtil;
